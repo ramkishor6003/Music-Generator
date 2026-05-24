@@ -1,6 +1,7 @@
 # Sound Composer
 
 **AI-Powered Music Generator** – Convert any text description into original music using Meta’s MusicGen.
+## Live Demo
 
 https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
 
@@ -15,10 +16,6 @@ https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
 - **Optimized for T4 GPU**: Uses `musicgen-small` with half-precision for efficient inference on free Hugging Face T4 GPUs.
 - **Multilingual Support**: Understands prompts in any language (model works best with English, but non-English works too).
 - **Instant Playback**: Generated audio can be previewed and downloaded directly in the browser.
-
-## Live Demo
-
-👉 https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
 
 ## Tech Stack
 
