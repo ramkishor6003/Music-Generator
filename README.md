@@ -32,6 +32,6 @@ https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
 1. **Clone the repository**
    ```bash
    git clone https://github.com/ramkishor6003/Music Generator.git
-   cd Music-Generator
+   cd Music Generator
 
 
