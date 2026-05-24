@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
 
 ![Gradio UI](https://img.shields.io/badge/UI-Gradio-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Python](https://img.shields.io/badge/Python-3.10+-yellow) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)
 
-## eatures
+##  Features
 
 - **Text-to-Music**: Generate original audio from natural language prompts in English, Hindi, Hinglish, or any language.
 - **Fine Control**: Adjust duration (3–20 sec), creativity (temperature), and prompt adherence (guidance scale).
