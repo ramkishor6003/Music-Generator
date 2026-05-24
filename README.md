@@ -1,4 +1,4 @@
-# Sound Composer
+# AI Music Generator – Sound Composer
 
 **AI-Powered Music Generator** – Convert any text description into original music using Meta’s MusicGen.
 ## Live Demo
