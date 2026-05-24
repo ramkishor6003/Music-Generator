@@ -1,6 +1,7 @@
 # AI Music Generator – Sound Composer
 
-**AI-Powered Music Generator** – Convert any text description into original music using Meta’s MusicGen.
+Generate original, royalty‑free music from any text description using Meta’s **MusicGen** model.  
+Supports English, Hindi, Hinglish, and any other language prompt.
 ## Live Demo
 
 https://github.com/user-attachments/assets/6ac344e7-2b2e-4a80-a9b5-ecda4b584ce0
